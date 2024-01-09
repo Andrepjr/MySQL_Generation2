@@ -20,4 +20,7 @@ VALUES("Calabresa", 59.99, "Calabresa, tomate e mussarela", "Média"),
 INSERT INTO tb_pizzas(nome_pizza, preco, ingredientes, massa)
 VALUES ("Chocolate", 69.99, "Chocolate e morango", "Fina");
 
+INSERT INTO tb_pizzas(nome_pizza, preco, ingredientes, massa)
+VALUES ("Salada especial", 69.99, "Rucula, tomate, pepino e azeitonas", "Fina");
+
 
